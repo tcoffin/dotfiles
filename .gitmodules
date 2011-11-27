@@ -1,0 +1,3 @@
+[submodule "links/vim/bundle/vim-coffee-script"]
+	path = links/vim/bundle/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
